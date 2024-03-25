@@ -1,3 +1,43 @@
 body{
     background-color: red;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.search-box{ 
+    position:absolute:
+    top: 5%:
+    lefr: 92%:
+    transform: translate(-95%, -8%):
+    background:red
+    height: 35px;
+    padding: 7px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-between;
+    aling-items: center;
+}
